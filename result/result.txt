@@ -1,0 +1,4 @@
+area                     = 134527.3733
+number of cycles(test 1) = 4294
+clock period             = 60
+performance				 = 34659536280
